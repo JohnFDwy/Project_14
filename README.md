@@ -12,7 +12,6 @@ This project aims to develop a system for filtering and categorizing movie revie
 ## Models Used
 - Logistic Regression
 - Gradient Boosting
-- [Any others]
 - Exploration with BERT embeddings for a subset of data
 
 ## Evaluation Metrics
